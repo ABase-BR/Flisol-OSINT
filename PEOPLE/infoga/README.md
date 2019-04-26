@@ -1,3 +1,18 @@
+# Infoga
+Com o Infoga podemos coletar informações , como por exemplo
+- Contas de email
+- IP
+- Nome de host
+- Pais
+
+Ele usa diversas fontes publicas 
+- Mecanismos de busca
+- Servidores de chave PGP
+- Shodan
+
+Alem de checar se o email foi vazado usando a API do **havebeenpwned.com**.
+
+
 ## Link do projeto
 ```sh
 https://github.com/m4ll0k/Infoga

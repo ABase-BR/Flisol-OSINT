@@ -1,3 +1,4 @@
+# Sherlock
 O Sherlock é um projeto que nos auxilia na busca por nomes de usuarios nas redes sociais.
 
 ```sh

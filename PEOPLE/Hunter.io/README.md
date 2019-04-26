@@ -1,9 +1,11 @@
 # Hunter.io
+Hunter.io é um projeto que nos auxiliar na busca de emails de corporações , podemos usar ele e só precisamos nos cadastrar.
+
 ```sh
 https://hunter.io/
 ```
 
-Hunter.io é um projeto que nos auxiliar na busca de emails de corporações , podemos usar ele e só precisamos se cadastrar.
+Podemos nos cadastrar no endereço abaixo.
 ```sh
 https://hunter.io/users/sign_up
 ```

@@ -1,3 +1,7 @@
+# pwnedOrNot
+O pwnedOrNot é uma ferramenta que usa informações OSINT para encontrar senha e endereços de email comprometidos.
+
+
 ## Link do projeto
 Podemos encontrar o projeto no github.
 ```sh
