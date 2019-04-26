@@ -1,5 +1,5 @@
 # VirusTotal
-O VirusTotal é uma sub divisao da google , é um serviço gratuito que analisa arquivos e URLS , dessa forma ajudando na identificação de conteudo malicioso por antivirus e scanners de websites.
+O VirusTotal é uma sub divisão da google , é um serviço gratuito que analisa arquivos e URLS , dessa forma ajudando na identificação de conteúdo malicioso por antivirus e scanners de websites.
 
 ```sh
 https://www.virustotal.com/
@@ -11,22 +11,22 @@ Podemos usar o VirusTotal para buscar informações de um site , por exemplo em
 https://www.virustotal.com/gui/home/search
 ```
 
-Podemos passar **dominios** , **IPS** , **URLS** e aquivos. 
+Podemos passar **domínios** , **IPS** , **URLS** e aquivos.
 
-Vou usar só IPS e dominios.
+Vou usar só IPS e domínios.
 
-### Dominios
-Podemos analisar dominios usando a URL seguida do site **https://www.virustotal.com/gui/domain/** que no caso é o Lab **aplicativos.org**.
+### Domínios
+Podemos analisar domínios usando a URL seguida do site **https://www.virustotal.com/gui/domain/** que no caso é o Lab **aplicativos.org**.
 ```sh
 https://www.virustotal.com/gui/domain/aplicativos.org/
 ```
 
-Vamos ter um feedback sobre o que a comunidade acha do site , alem de informações como
+Vamos ter um feedback sobre o que a comunidade acha do site , além de informações como
 - Onde foi registrado
 - Quando foi criado
 - Ultima atualização
 
-Alem disso temos opções como
+Além disso temos opções como
 - Detalhes
 - Relações
 - Comunidade
@@ -55,9 +55,9 @@ https://www.virustotal.com/gui/ip-address/0.0.0.0/
 ```
 
 #### Relações
-Temos informaçoes de subdominios
+Temos informações de subdomínios
 ```sh
-https://www.virustotal.com/gui/ip-address/0.0.0.0/relations 
+https://www.virustotal.com/gui/ip-address/0.0.0.0/relations
 ```
 
 #### Comunidade

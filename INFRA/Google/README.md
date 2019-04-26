@@ -87,7 +87,7 @@ Podemos usar a opção **cache** para ver como era a pagina quando o google a vi
 cache:facebook.com
 ```
 
-Tambem podemos usar o dominio da seguinte forma
+Também podemos usar o domínio da seguinte forma
 ```sh
 http://webcache.googleusercontent.com/search?q=cache:businesscorp.com.br
 ```
@@ -208,3 +208,4 @@ Veja o site
 ```sh
 https://www.exploit-db.com/
 ```
+

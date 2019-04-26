@@ -1,11 +1,11 @@
 # Sherlock
-O Sherlock é um projeto que nos auxilia na busca por nomes de usuarios nas redes sociais.
+O Sherlock é um projeto que nos auxilia na busca por nomes de usuários nas redes sociais.
 
 ```sh
 https://github.com/sherlock-project/sherlock
 ```
 
-## Docker 
+## Docker
 Podemos usar o Docker para nos auxiliar no uso da imagem , só precisamos do Docker instalado e o **sherlock** já tem suporte.
 
 Para criar a imagem , precisamos fazer o seguinte comando.

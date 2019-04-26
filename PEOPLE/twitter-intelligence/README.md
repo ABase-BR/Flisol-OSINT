@@ -13,7 +13,7 @@ O Twiter-intelligence é uma ferramenta que tem como meta buscar por informaçõ
 Vamos criar uma imagem para usar , mas precisamos ter o Docker instalado.
 
 
-Gerando uma nova imagem 
+Gerando uma nova imagem
 ```sh
 sudo docker build -t "greenmind/twitter-intelligence:1" .
 ```

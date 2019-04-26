@@ -6,10 +6,10 @@ https://github.com/laramies/theHarvester
 
 O theHarvester é uma ferramenta que nos auxilia na coleta de informações publicas , podemos buscar informações como por exemplo
 - Informações de um host
-- Obter realizaões de emails
-- Subdominios
+- Obter realizações de emails
+- Subdomínios
 - host
-- nome de funcionarios
+- nome de funcionários
 - Banners
 - Chaves GPG
 

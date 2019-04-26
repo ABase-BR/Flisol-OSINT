@@ -5,12 +5,12 @@ Com o Infoga podemos coletar informações , como por exemplo
 - Nome de host
 - Pais
 
-Ele usa diversas fontes publicas 
+Ele usa diversas fontes publicas
 - Mecanismos de busca
 - Servidores de chave PGP
 - Shodan
 
-Alem de checar se o email foi vazado usando a API do **havebeenpwned.com**.
+Além de checar se o email foi vazado usando a API do **havebeenpwned.com**.
 
 
 ## Link do projeto
@@ -19,7 +19,7 @@ https://github.com/m4ll0k/Infoga
 ```
 
 ## Instalando Infoga
-Depois de baixar o projeto e entrar no diretorio podemos instalar o projeto.
+Depois de baixar o projeto e entrar no diretório podemos instalar o projeto.
 ```sh
 python setup.py install
 ```

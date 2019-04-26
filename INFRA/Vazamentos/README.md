@@ -1,16 +1,16 @@
-# Vazamentos 
-Vazamento de dados pode ser um problema para as empresas , funcionarios e clientes.
+# Vazamentos
+Vazamento de dados pode ser um problema para as empresas , funcionários e clientes.
 
 Sabendo isso vou compartilhar alguns projetos que auxiliam na busca de vazamentos.
 
 ## dehashed
-O dehashed nos ajuda com a busca de possiveis vazamentos , precisamos passar qual dominio queremos testar 
+O dehashed nos ajuda com a busca de possíveis vazamentos , precisamos passar qual domínio queremos testar
 ```sh
 https://dehashed.com/search?query=%22businesscorp.com.br%22
 ```
 
 ## intelx.io
-intelx.io tambem nos ajuda a buscar informações , ele nos retorna possiveis pastes com possiveis informações.
+intelx.io também nos ajuda a buscar informações , ele nos retorna possíveis pastes com possíveis informações.
 
 Ele busca por informações em Pastebins e na internet.
 ```sh

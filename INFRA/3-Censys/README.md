@@ -99,13 +99,13 @@ https://censys.io/api
 
 > Precisamos criar uma conta no Censys , com ela temos acesso a informações da conta , **API ID** , **Secret** , limites da conta.
 
-## Criando conta 
+## Criando conta
 Podemos criar uma conta Free no seguinte link
 ```sh
 https://censys.io/register
 ```
 
-> Pode ser necessario validar a conta no seu email , caso não queira usar o seu email é possivel usar **https://10minutemail.net/?lang=pt-br**.
+> Pode ser necessário validar a conta no seu email , caso não queira usar o seu email é possível usar **https://10minutemail.net/?lang=pt-br**.
 
 ### Informações de conta
 Depois de criar uma conta podemos ir no link a baixo e ver informações da conta.
@@ -130,7 +130,7 @@ Podemos encontrar informações como
 https://censys.io/account/api
 ```
 
-No link acima é possivel obter as credenciais para o uso da API e alem disso podemos encontrar
+No link acima é possível obter as credenciais para o uso da API e além disso podemos encontrar
 - API ID
 - Secret
 - Observar limites da conta
@@ -145,7 +145,7 @@ https://censys.io/account/billing
 ## Censys API + Python
 É possivel usar a API do censys com o Python.
 
-Anteriormente já tivemos acesso as credenciais necessarias , agora vou mostrar a documentação do github.
+Anteriormente já tivemos acesso as credenciais necessárias , agora vou mostrar a documentação do github.
 ```sh
 https://github.com/censys/censys-python
 ```
@@ -153,8 +153,9 @@ https://github.com/censys/censys-python
 E tem até alguns exemplos de uso.
 
 ### Projeto gelim/censys
-Podemos usar um projeto bem interessante que está disponivel no Github , ele nos auxilia para o uso da API do Censys com a linguagem python e ainda disponibiliza uma documentação.
+Podemos usar um projeto bem interessante que está disponível no Github , ele nos auxilia para o uso da API do Censys com a linguagem python e ainda disponibiliza uma documentação.
 ```sh
 https://github.com/gelim/censys
 ```
+
 

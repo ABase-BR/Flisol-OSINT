@@ -11,7 +11,7 @@ https://github.com/thewhiteh4t/pwnedOrNot
 ### Criando container usando Docker
 Podemos criar um container da seguinte forma.
 
-Com o Docker já instalado vamos baixar o projeto e entrar no diretorio.
+Com o Docker já instalado vamos baixar o projeto e entrar no diretório.
 ```sh
 git clone https://github.com/thewhiteh4t/pwnedOrNot
 ```
